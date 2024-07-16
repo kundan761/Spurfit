@@ -17,8 +17,8 @@
 
 ## Deployed Application
 
-You can access the deployed version of Spurfit [here](https://spur-fit-nine.vercel.app/).
+You can access the deployed version of Spurfit [here](https://spurfit-sable.vercel.app/).
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License.
